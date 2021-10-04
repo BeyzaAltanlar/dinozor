@@ -2,4 +2,4 @@ language: java
 before_install:
  - chmod +x gradlow
  jdk:
- - oraclejdk14
+ - oraclejdk15.0.2
